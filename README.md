@@ -1,4 +1,10 @@
-### Olá meu nome é Moisés Bueno. Sou desenvolvedor de software a mais de 4 anos com experiência em diversas linguagens e ferramentas.
+### Olá meu nome é Moisés Bueno. 
+### Sou desenvolvedor de software a mais de 4 anos com experiência em diversas linguagens e ferramentas.
+
+#### Contato
+* [Twitter](https://twitter.com/_moises_bueno)
+* [Linkedin](https://www.linkedin.com/in/moisesbueno)
+* [Email](mailto:moibueno@gmail.com)
 
 
 
