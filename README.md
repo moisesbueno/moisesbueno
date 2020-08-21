@@ -1,10 +1,22 @@
-### Olá meu nome é Moisés Bueno. 
-### Sou desenvolvedor de software a mais de 4 anos com experiência em diversas linguagens e ferramentas.
+## Olá!, Eu sou Moisés :wave:
 
-#### Contato
-* [Twitter](https://twitter.com/_moises_bueno)
-* [Linkedin](https://www.linkedin.com/in/moisesbueno)
-* [Email](mailto:moibueno@gmail.com)
+Sou desenvolvedor de software
+
+### Como me encontrar
+:bird:[Twitter](https://twitter.com/_moises_bueno) <br>
+:postbox:[Linkedin](https://www.linkedin.com/in/moisesbueno) <br>
+:email:[Email](mailto:moibueno@gmail.com)<br>
+
+### Experiência
+Desenvolvimento de sistemas desktop e web utilizando linguagens de programação<br>
+como VB6, C#, PHP e banco de dados MYSQL,Firebird
+
+### Estudos
+* Javascript 
+* NodeJS
+* MongoDB
+* ReactJS
+
 
 
 
